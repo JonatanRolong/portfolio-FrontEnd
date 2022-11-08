@@ -1,0 +1,1639 @@
+/* Reset */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* Rectangle 1 */
+.Rectangle-1{
+  position: absolute;
+  width: 1349px;
+  height: 106px;
+  left: 0px;
+  top: 0px;
+  
+  background: #666363;
+}
+
+.container {
+	margin: auto;
+	max-width: 1300px;
+	overflow: auto;
+	padding: 0 20px;
+}
+
+/* Arg Programa Logo */
+.Arg-Programa-Logo{
+  position: absolute;
+  width: 500px;
+  height: 74.55px;
+  left: 32px;
+  top: 16px;
+  
+  background: url(Arg-Programa-PhotoRoom.png);
+}
+
+/* Facebook */
+.Facebook{
+  position: absolute;
+  width: 77px;
+  height: 52.05px;
+  left: 1013px;
+  top: 26px;
+  
+  background: url(d5e1cf0a96bad7c64e868128e6190c2f);
+}
+  
+/* Instagram */
+.Instagram{
+  position: absolute;
+  width: 52px;
+  height: 52px;
+  left: 1090px;
+  top: 26px;
+  
+  background: url(instagram-new-2016-glyph-logo-84CB825424-seeklogo.png);
+}
+  
+/* Twitter */
+.Twitter{
+  position: absolute;
+  width: 52px;
+  height: 53.18px;
+  left: 1154px;
+  top: 26px;
+  
+  background: url(follow-me-gold-twitter-icon-vector-11563031490l4vyrkbrdu-PhotoRoom);
+}
+  
+  
+/* Button */
+button {
+  background-color:  rgba(217, 217, 217, 0.31);
+  width: 111px;
+  font-size: 24px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 3px solid #000000;
+  color: #000000;
+  cursor: pointer;
+} 
+  
+.button {
+  position: absolute;
+  background-color: rgba(217, 217, 217, 0.31);
+  width: 111px;
+  font-size: 24px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 3px solid #000000;
+  color: #000000;
+  text-align: center;
+  top: 23px;
+  left: 1223px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29px;
+} 
+
+/* Fondo banner */
+.Fondo-Banner{
+  position: absolute;
+  height: 470px;
+  left: 60px;
+  right: 60px;
+  top: 111px;
+
+  background: url(clement-helardot-95YRwf6CNw8-unsplash.jpg);
+  background-position: center;
+}
+
+
+/* Foto Perfil */
+.box{
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  background-image: url(perfil.png);
+  background-size: cover;
+  border-radius: 50%;
+  left: 55px;
+  top: 235px;
+}
+
+
+/* Nombre */
+.Nombre{
+  position: absolute;
+  width: 309px;
+  height: 68px;
+  left: 80px;
+  top: 650px;
+}
+
+
+/* Jonatan Rolong */
+.name1{
+width: 244px;
+  height: 39px;
+  flex-grow: 0;
+  margin: 0 19px 0 0;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+}
+
+
+/* Lorem ipsum dolor sit amet */
+.cargo{
+  width: 309px;
+  height: 29px;
+  flex-grow: 0;
+  margin: auto;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+
+/* Rectangle 3 */
+.Rectangle-3{
+  position: absolute;
+  width: 935px;
+  height: 221px;
+  left: 380px;
+  top: 640px;
+
+  background: #D9D9D9;
+  border: 1px solid #000000;
+  border-radius: 36px;
+}
+
+/* Acerca de */
+.acerca-de{
+  position: absolute;
+  width: 168px;
+  height: 41px;
+  left: auto;
+  top: 12px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+  text-align: center;
+
+  color: #000000;
+}
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt tortor at lorem placerat luctus. */
+.texto-acerca-de{
+  position: absolute;
+  width: 942px;
+  height: 62px;
+  left: 10px;
+  top: 60px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+
+  color: #000000;
+}
+
+
+/* Experiencia */
+.Experiencia-title{
+  position: absolute;
+  width: 196px;
+  height: 41px;
+  left: 18px;
+  top: 25px; /* se le restan 170px*/
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+  text-align: center;
+
+  color: #000000;
+}
+
+
+/* Experiencia */
+.Experiencia{
+  position: absolute;
+  width: 1255px;
+  height: 800px;
+  left: 60px;
+  top: 870px;
+}
+
+
+/* Rectangle 4 */
+.Rectangle-2{
+  position: absolute;
+  width: 1255px;
+  height: 800px;
+  left: auto;
+  top: auto;
+
+  border: 1px solid #000000;
+  border-radius: 36px;
+}
+
+
+/* Logo1 */
+.Logo1{
+  position: absolute;
+  width: 109px;
+  height: 97.88px;
+  left: 50px;
+  top: 93px;
+
+  background: url(yogesh-phuyal-mjwGKmwkDDA-unsplash);
+}
+
+
+/* Lorem ipsum */
+.texto-exp1{
+  position: absolute;
+  width: 215px;
+  height: 41px;
+  left: 214px;
+  top: 85px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+
+  color: #000000;
+}
+
+
+/* Lorem ipsum */
+.texto2-exp1{
+  position: absolute;
+  width: 146px;
+  height: 29px;
+  left: 214px;
+  top: 127px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+/* identical to box height */
+
+  color: #000000;
+}
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Cras tincidunt tortor at lorem placerat luctus. Pellentesque rhoncus laoreet elementum. 
+Nam gravida neque vel velit fermentum, aliquam consequat est ullamcorper. 
+Maecenas at tellus id erat imperdiet laoreet quis sed nulla. */
+.texto3-exp1{
+  position: absolute;
+  width: 1020px;
+  height: 124px;
+  left: 214px;
+  top: 156px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+
+  color: #000000;
+}
+
+
+/* Logo2 */
+.Logo2{
+  position: absolute;
+  width: 109px;
+  height: 97.88px;
+  left: 50px;
+  top: 328px;
+
+  background: url(yogesh-phuyal-mjwGKmwkDDA-unsplash);
+}
+
+
+/* Lorem ipsum */
+.texto1-Exp2{
+  position: absolute;
+  width: 215px;
+  height: 41px;
+  left: 214px;
+  top: 320px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+
+  color: #000000;
+}
+
+
+/* Lorem ipsum */
+.texto2-Exp2{
+  position: absolute;
+  width: 146px;
+  height: 29px;
+  left: 214px;
+  top: 362px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+/* identical to box height */
+
+  color: #000000;
+}
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt tortor at lorem placerat luctus. Pellentesque rhoncus laoreet elementum. Nam gravida neque vel velit fermentum, aliquam consequat est ullamcorper. Maecenas at tellus id erat imperdiet laoreet quis sed nulla. */
+.texto3-exp2{
+  position: absolute;
+  width: 1020px;
+  height: 124px;
+  left: 214px;
+  top: 391px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+
+  color: #000000;
+}
+
+
+/* Logo3 */
+.Logo3{
+  position: absolute;
+  width: 109px;
+  height: 97.88px;
+  left: 50px;
+  top: 563px;
+
+  background: url(yogesh-phuyal-mjwGKmwkDDA-unsplash);
+}
+
+
+/* Lorem ipsum */
+.texto1-exp3{
+  position: absolute;
+  width: 215px;
+  height: 41px;
+  left: 214px;
+  top: 555px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+
+  color: #000000;
+}
+
+
+/* Lorem ipsum */
+.texto2-exp3{
+  position: absolute;
+  width: 146px;
+  height: 29px;
+  left: 214px;
+  top: 597px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+/* identical to box height */
+
+  color: #000000;
+}
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt tortor at lorem placerat luctus. Pellentesque rhoncus laoreet elementum. Nam gravida neque vel velit fermentum, aliquam consequat est ullamcorper. Maecenas at tellus id erat imperdiet laoreet quis sed nulla. */
+.texto3-exp3{
+  position: absolute;
+  width: 1020px;
+  height: 124px;
+  left: 214px;
+  top: 626px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+
+  color: #000000;
+}
+
+/* Educación */
+.Educacion{
+  position: absolute;
+  width: 1255px;
+  height: 540px;
+  left: 60px;
+  top: 1676px;
+}
+
+/* Rectangle 4 */
+.Rectangle-4{
+  position: absolute;
+  width: 1255px;
+  height: 540px;
+  left: auto;
+  top: auto;
+
+  background: #D9D9D9;
+  border: 1px solid #000000;
+  border-radius: 36px;
+}
+
+/* Educación */
+.educacion-title{
+  position: absolute;
+  width: 175px;
+  height: 38.69px;
+  left: 29px;
+  top: 23.59px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+  text-align: center;
+
+  color: #000000;
+}
+
+
+/* Logo 1 */
+.Logo-1{
+  position: absolute;
+  width: 109px;
+  height: 69.26px;
+  left: 50px;
+  top: 99.09px;
+
+  background: url(elisa-calvet-b-S3nUOqDmUvc-unsplash);
+}
+
+/* Lorem ipsum */
+.texto1-edu1{
+  position: absolute;
+  width: 215px;
+  height: 38.69px;
+  left: 214px;
+  top: 80.22px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+
+  color: #000000;
+}
+
+
+/* Lorem ipsum dolor sit amet */
+.texto2-edu1{
+  position: absolute;
+  width: 368px;
+  height: 27.37px;
+  left: 214px;
+  top: 119.86px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+
+  color: #000000;
+}
+
+
+/* xxxx - xxxx */
+.texto3-edu1{
+  position: absolute;
+  width: 139px;
+  height: 29.26px;
+  left: 214px;
+  top: 147.22px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+
+  color: #000000;
+}
+
+
+/* Logo 2 */
+.Logo-2{
+  position: absolute;
+  width: 109px;
+  height: 69.26px;
+  left: 50px;
+  top: 243.49px;
+
+  background: url(elisa-calvet-b-S3nUOqDmUvc-unsplash);
+}
+
+/* Lorem ipsum */
+.texto1-edu2{
+  position: absolute;
+  width: 215px;
+  height: 38.69px;
+  left: 214px;
+  top: 224.61px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+
+  color: #000000;
+}
+
+
+/* Lorem ipsum dolor sit amet */
+.texto2-edu2{
+  position: absolute;
+  width: 368px;
+  height: 27.37px;
+  left: 214px;
+  top: 264.25px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+
+  color: #000000;
+}
+
+
+/* xxxx - xxxx */
+.texto3-edu2{
+  position: absolute;
+  width: 139px;
+  height: 29.26px;
+  left: 214px;
+  top: 291.62px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+
+  color: #000000;
+}
+
+
+
+/* Logo 3 */
+.Logo-3{
+  position: absolute;
+  width: 109px;
+  height: 69.26px;
+  left: 50px;
+  top: 396.38px;
+
+  background: url(elisa-calvet-b-S3nUOqDmUvc-unsplash);
+}
+
+/* Lorem ipsum */
+.texto1-edu3{
+  position: absolute;
+  width: 215px;
+  height: 38.69px;
+  left: 214px;
+  top: 377.5px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+
+  color: #000000;
+}
+
+
+/* Lorem ipsum dolor sit amet */
+.texto2-edu3{
+  position: absolute;
+  width: 368px;
+  height: 27.37px;
+  left: 214px;
+  top: 417.14px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+
+  color: #000000;
+}
+
+
+/* xxxx - xxxx */
+.texto3-edu3{
+  position: absolute;
+  width: 139px;
+  height: 29.26px;
+  left: 214px;
+  top: 444.51px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+
+  color: #000000;
+}
+
+
+/* Skills */
+.Skills{
+  position: absolute;
+  width: 1255px;
+  height: 463px;
+  left: 60px;
+  top: 2227px;
+}
+
+
+/* Rectangle 5 */
+.Rectangle-5{
+  position: absolute;
+  width: 1255px;
+  height: 463px;
+  left: auto;
+  top: auto;
+
+  border: 1px solid #000000;
+  border-radius: 46px;
+}
+
+/* Hard Skills & Soft Skills */
+.hard-soft-skills{
+  position: absolute;
+  width: 382px;
+  height: 41px;
+  left: 29px;
+  top: 35px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+
+  color: #000000;
+}
+
+
+/* Ellipse 1 */
+.Ellipse-1{
+  border-radius: 50%;
+  position: absolute;
+  width: 209px;
+  height: 209px;
+  left: 159px;
+  top: 141px;
+
+  background: #D9D9D9;
+  border: 1px solid #000000;
+}
+
+/* Ellipse 2 */
+.Ellipse-2{
+  box-sizing: border-box;
+  border-radius: 50%;
+  position: absolute;
+  width: 170px;
+  height: 170px;
+  left: 178px;
+  top: 161px;
+
+  background: #FFFFFF;
+  border: 1px solid #000000;
+}
+
+
+/* Ellipse 1 */
+.Elipse-1{
+  position: absolute;
+  border-radius: 50%;
+  width: 209px;
+  height: 209px;
+  left: 555px;
+  top: 141px;
+
+  background: #D9D9D9;
+  border: 1px solid #000000;
+}
+
+/* Ellipse 2 */
+.Elipse-2{
+  box-sizing: border-box;
+  border-radius: 50%;
+  position: absolute;
+  width: 170px;
+  height: 170px;
+  left: 574px;
+  top: 161px;
+
+  background: #FFFFFF;
+  border: 1px solid #000000;
+}
+
+
+/* Ellipse 1 */
+.elipse1{
+  position: absolute;
+  border-radius: 50%;
+  width: 209px;
+  height: 209px;
+  left: 956px;
+  top: 141px;
+
+  background: #D9D9D9;
+  border: 1px solid #000000;
+}
+
+/* Ellipse 2 */
+.elipse2{
+  box-sizing: border-box;
+  border-radius: 50%;
+  position: absolute;
+  width: 170px;
+  height: 170px;
+  left: 975px;
+  top: 161px;
+
+  background: #FFFFFF;
+  border: 1px solid #000000;
+}
+
+/* Skill 1 */
+.skill1{
+  position: absolute;
+  width: 90px;
+  height: 41px;
+  left: 220px;
+  top: 363px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 41px;
+  text-align: center;
+
+  color: #000000;
+}
+
+
+/* Skill 2 */
+.skill2{
+  position: absolute;
+  width: 95px;
+  height: 41px;
+  left: 614px;
+  top: 363px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 41px;
+  text-align: center;
+
+  color: #000000;
+}
+
+
+/* Skill 3 */
+.skill3{
+  position: absolute;
+  width: 96px;
+  height: 41px;
+  left: 1016px;
+  top: 363px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 41px;
+  text-align: center;
+
+  color: #000000;
+}
+
+
+/* Proyectos */
+.Proyectos{
+  position: absolute;
+  width: 1255px;
+  height: 436px;
+  left: 60px;
+  top: 2702px;
+}
+
+
+/* Rectangle 6 */
+.Rectangle-6{
+  position: absolute;
+  width: 1255px;
+  height: 436px;
+  left: auto;
+  top: auto;
+
+  background: #D9D9D9;
+  border: 1px solid #000000;
+  border-radius: 46px;
+}
+
+/* Proyectos */
+.proyectos-text{
+  position: absolute;
+  width: 168px;
+  height: 41px;
+  left: 29px;
+  top: 35px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+  
+  color: #000000;
+}
+
+/* Lorem ipsum */
+.texto1-proy1{
+  position: absolute;
+  width: 247.69px;
+  height: 41px;
+  left: 50px;
+  top: 92px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+  
+  color: #000000;
+}
+
+
+/* xxxx */
+.texto2-proy1{
+  position: absolute;
+  width: 59.91px;
+  height: 29px;
+  left: 66px;
+  top: 134px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+  
+  color: #000000;
+}
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt tortor at lorem placerat luctus. Pellentesque rhoncus laoreet elementum. */
+.texto3-proy1{
+  position: absolute;
+  width: 1220px;
+  height: 93px;
+  left: 66px;
+  top: 163px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+
+  color: #000000;
+}
+
+
+/* Pellentesque rhoncus laoreet elementum */
+.texto4-proy1{
+  position: absolute;
+  width: 501px;
+  height: 31px;
+  left: 66px;
+  top: 190px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration-line: underline;
+
+  color: #3895EA;
+}
+
+
+/* Lorem ipsum */
+.texto1-proy2{
+  position: absolute;
+  width: 247.69px;
+  height: 41px;
+  left: 50px;
+  top: 244px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+
+  color: #000000;
+}
+
+
+/* xxxx */
+.texto2-proy2{
+  position: absolute;
+  width: 59.91px;
+  height: 29px;
+  left: 66px;
+  top: 286px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+/* identical to box height */
+
+  color: #000000;
+}
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt tortor at lorem placerat luctus. Pellentesque rhoncus laoreet elementum. */
+.texto3-proy2{
+  position: absolute;
+  width: 1220px;
+  height: 93px;
+  left: 66px;
+  top: 315px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+
+  color: #000000;
+}
+
+/* Pellentesque rhoncus laoreet elementum */
+
+.texto4-proy2{
+  position: absolute;
+  width: 501px;
+  height: 31px;
+  left: 66px;
+  top: 342px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration-line: underline;
+
+  color: #3895EA;
+}
+
+
+/* Formulario */
+.Formulario{
+  position: absolute;
+  width: 800px;
+  height: 446px;
+  left: 319px;
+  top: 3150px;
+}
+
+/* Contacto */
+.Contacto{
+  position: absolute;
+  width: 179px;
+  height: 48px;
+  left: 300px;
+  top: 59px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+
+  color: #000000;
+}
+
+
+/* Input nombre */
+.Input-nombre{
+  position: absolute;
+  width: 385px;
+  height: 50px;
+  left: 0px;
+  top: 153px;
+}
+
+
+/* Rectangle 7 */
+.Rectangle-7{
+  position: absolute;
+  width: 395px;
+  height: 50px;
+  left: auto;
+  top: auto;
+
+  border: 2px solid #C6BCBC;
+  border-radius: 5px;
+}
+
+/* Nombre */
+.name{
+  position: absolute;
+  width: 93px;
+  height: 29px;
+  left: 12px;
+  top: 10px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+/* identical to box height */
+
+  color: #C6BCBC;
+}
+
+
+/* Input correo */
+.Input-correo{
+  position: absolute;
+  width: 395px;
+  height: 50px;
+  left: 405px;
+  top: 153px;
+}
+
+/* Rectangle 8 */
+.Rectangle-8{
+  position: absolute;
+  width: 395px;
+  height: 50px;
+  left: auto;
+  top: auto;
+
+  border: 2px solid #C6BCBC;
+  border-radius: 5px;
+}
+
+/* Correo */
+.Correo{
+  position: absolute;
+  width: 80px;
+  height: 29px;
+  left: 12px;
+  top: 10px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+/* identical to box height */
+
+  color: #C6BCBC;
+}
+
+/* Input mensaje */
+.Input-mensaje{
+  position: absolute;
+  width: 800px;
+  height: 174px;
+  left: 0px;
+  top: 210px;
+}
+
+/* Rectangle 9 */
+.Rectangle-9{
+  position: absolute;
+  width: 800px;
+  height: 174px;
+  left: auto;
+  top: auto;
+
+  border: 2px solid #C6BCBC;
+  border-radius: 5px;
+}
+
+/* Mensaje */
+.Mensaje{
+  position: absolute;
+  width: 99px;
+  height: 32px;
+  left: 12px;
+  top: 10px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #C6BCBC;
+}
+
+/* Button Send*/
+buttonEnviar {
+  background-color:  rgba(217, 217, 217, 0.31);
+  width: 111px;
+  font-size: 24px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 3px solid #000000;
+  color: #000000;
+  cursor: pointer;
+} 
+
+.buttonEnviar {
+  position: absolute;
+  background-color: #3895EA;
+  width: 111px;
+  font-size: 24px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 3px solid #3895EA;
+  color: #FFFFFF;
+  text-align: center;
+  top: auto;
+  left: auto;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  line-height: 39px;
+} 
+
+/* Boton */
+.Boton{
+  position: absolute;
+  width: 170px;
+  height: 79px;
+  left: 350px;
+  top: 410px;
+}
+
+
+/* Edit Icons */
+.Edit-icons{
+  position: absolute;
+  width: 1100px;
+  height: 3062.88px;
+  left: 180px;
+  top: 132px;
+}
+
+/* Camera-banner */
+.camera-banner{
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  left: 1080px;
+  top: 0px;
+
+  background: url(camera-retro.svg);
+  opacity: 80%;
+}
+
+/* Camera foto perfil */
+.camera-foto-perfil{
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  left: 50px;
+  top: 485px;
+
+  background: url(camera-retro.svg);
+  opacity: 80%;
+}
+
+/* Pencil nombre */
+.pencil-nombre{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 140px;
+  top: 525px;
+
+  background: url(pencil-solid.svg);
+  opacity: 80%;
+}
+
+
+/* pencil-acerca de */
+.pencil-acerca-de{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1080px;
+  top: 525px;
+
+  background: url(pencil-solid.svg);
+  opacity: 80%;
+}
+
+/* plus-experiencia */
+.plus-experiencia{
+  position: absolute;
+  width: 35px;
+  height: 40px;
+  left: 1080px;
+  top: 763px;
+
+  background: url(plus-solid.svg);
+  opacity: 80%;
+}
+
+
+/* eraser-exp1 */
+.eraser-exp1{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1080px;
+  top: 830px; /*se restan 295*/
+
+  background: url(eraser-solid.svg);
+  opacity: 80%;
+}
+
+/* pencil-exp1 */
+.pencil-exp1{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1050px;
+  top: 830px;
+
+  background: url(pencil-solid.svg);
+  opacity: 80%;
+}
+
+/* eraser-exp2 */
+.eraser-exp2{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1080px;
+  top: 1068px;
+
+  background: url(eraser-solid.svg);
+  opacity: 80%;
+}
+
+
+/* pencil-exp2 */
+.pencil-exp2{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1050px;
+  top: 1068px;
+
+  background: url(pencil-solid.svg);
+  opacity: 80%;
+}
+
+/* eraser-exp3 */
+.eraser-exp3{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1080px;
+  top: 1302px;
+
+  background: url(eraser-solid.svg);
+  opacity: 80%;
+}
+
+/* pencil-exp3 */
+.pencil-exp3{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1050px;
+  top: 1302px;
+
+  background: url(pencil-solid.svg);
+  opacity: 80%;
+}
+
+
+/* plus-educación */
+.plus-educacion{
+  position: absolute;
+  width: 35px;
+  height: 40px;
+  left: 1080px;
+  top: 1579px;
+
+  background: url(plus-solid.svg);
+  opacity: 80%;
+}
+
+
+/* eraser-edu1 */
+.eraser-edu1{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1080px;
+  top: 1637px;
+
+  background: url(eraser-solid.svg);
+  opacity: 80%;
+}
+
+
+/* pencil-edu1 */
+.pencil-edu1{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1050px;
+  top: 1637px;
+  
+  background: url(pencil-solid.svg);
+  opacity: 80%;
+}
+
+/* eraser-edu2 */
+.eraser-edu2{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1080px;
+  top: 1780px;
+
+  background: url(eraser-solid.svg);
+  opacity: 80%;
+}
+
+
+/* pencil-edu2 */
+.pencil-edu2{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1050px;
+  top: 1780px;
+  
+  background: url(pencil-solid.svg);
+  opacity: 80%;
+}
+
+/* eraser-edu3 */
+ .eraser-edu3{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1080px;
+  top: 1934px;
+
+  background: url(eraser-solid.svg);
+  opacity: 80%;
+}
+
+
+/* pencil-edu3 */
+.pencil-edu3{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1050px;
+  top: 1934px;
+  
+  background: url(pencil-solid.svg);
+  opacity: 80%;
+}
+
+
+/* plus-skills */
+.plus-skills{
+  position: absolute;
+  width: 35px;
+  height: 40px;
+  left: 1080px;
+  top: 2125px;
+
+  background: url(plus-solid.svg);
+  opacity: 80%;
+}
+
+
+/* pencil-skill1 */
+.pencil-skill1{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 240px;
+  top: 2465px;
+  
+  background: url(pencil-solid.svg);
+  opacity: 80%;
+}
+
+/* eraser-skill1 */
+.eraser-skill1{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 270px;
+  top: 2465px;
+
+  background: url(eraser-solid.svg);
+  opacity: 80%;
+}
+
+
+.pencil-skill2{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 640px;
+  top: 2465px;
+    
+  background: url(pencil-solid.svg);
+  opacity: 80%;
+}
+  
+/* eraser-skill2 */
+.eraser-skill2{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 670px;
+  top: 2465px;
+  
+  background: url(eraser-solid.svg);
+  opacity: 80%;
+}
+
+
+.pencil-skill3{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1040px;
+  top: 2465px;
+      
+  background: url(pencil-solid.svg);
+  opacity: 80%;
+}
+    
+/* eraser-skill3 */
+.eraser-skill3{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1070px;
+  top: 2465px;
+    
+  background: url(eraser-solid.svg);
+  opacity: 80%;
+}
+
+
+/* plus-proyectos */
+.plus-proyectos{
+  position: absolute;
+  width: 35px;
+  height: 40px;
+  left: 1080px;
+  top: 2605px;
+
+  background: url(plus-solid.svg);
+  opacity: 80%;
+}
+
+/* eraser-proy1 */
+.eraser-proy1{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1080px;
+  top: 2673px;
+
+  background: url(eraser-solid.svg);
+  opacity: 80%;
+}
+
+
+/* pencil-proy1 */
+.pencil-proy1{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1050px;
+  top: 2673px;
+  
+  background: url(pencil-solid.svg);
+  opacity: 80%;
+}
+
+/* eraser-proy2 */
+.eraser-proy2{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1080px;
+  top: 2826px;
+
+  background: url(eraser-solid.svg);
+  opacity: 80%;
+}
+
+
+/* pencil-proy2 */
+.pencil-proy2{
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 1050px;
+  top: 2826px;
+  
+  background: url(pencil-solid.svg);
+  opacity: 80%;
+}
