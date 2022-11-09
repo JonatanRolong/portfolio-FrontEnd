@@ -188,8 +188,8 @@ width: 244px;
   position: absolute;
   width: 168px;
   height: 41px;
-  left: auto;
-  top: 12px;
+  left: 18px;
+  top: 25px;
 
   font-family: 'Inter';
   font-style: normal;
@@ -205,10 +205,10 @@ width: 244px;
 /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt tortor at lorem placerat luctus. */
 .texto-acerca-de{
   position: absolute;
-  width: 942px;
+  width: 830px;
   height: 62px;
-  left: 10px;
-  top: 60px;
+  left: 30px;
+  top: 75px;
 
   font-family: 'Inter';
   font-style: normal;
